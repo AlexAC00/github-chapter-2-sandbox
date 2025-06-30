@@ -1,3 +1,3 @@
 # Github practice
 
-## Example of description 3
+## Example of description 2
